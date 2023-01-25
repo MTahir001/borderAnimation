@@ -50,9 +50,8 @@ body{
     background: #111111;
     z-index: 2;
 
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    place-items: center;
 }
 img{
     width: 14rem;
